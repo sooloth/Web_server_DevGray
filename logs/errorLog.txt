@@ -1,0 +1,5 @@
+20230806	16:54:55	39f1b3b2-462d-4942-9e81-85271f5d8428	Error: Not allowed by CORS
+20230806	16:54:55	b1db761f-e756-44ba-89fa-0e26af5a8fc6	Error: Not allowed by CORS
+20230808	16:04:41	b7ed0239-a4a2-4a34-86b9-261a571a5d93	SyntaxError: Unexpected end of JSON input
+20230810	21:40:35	7f29ea02-19ab-496a-bce5-28c08772245a	ReferenceError: whitelist is not defined
+20230810	21:41:01	eca7a630-15cb-4ef9-b2ea-f739bc3abc1a	ReferenceError: whitelist is not defined
